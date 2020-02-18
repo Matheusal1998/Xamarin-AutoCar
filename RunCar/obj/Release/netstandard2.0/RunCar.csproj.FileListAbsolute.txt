@@ -1,0 +1,14 @@
+C:\Users\mathe\source\repos\RunCar\RunCar\bin\Release\netstandard2.0\RunCar.deps.json
+C:\Users\mathe\source\repos\RunCar\RunCar\bin\Release\netstandard2.0\RunCar.dll
+C:\Users\mathe\source\repos\RunCar\RunCar\bin\Release\netstandard2.0\ref\RunCar.dll
+C:\Users\mathe\source\repos\RunCar\RunCar\bin\Release\netstandard2.0\RunCar.pdb
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\Agendamento.xaml.g.cs
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\App.xaml.g.cs
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\Detalhes.xaml.g.cs
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\Listagem.xaml.g.cs
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\RunCar.AssemblyInfoInputs.cache
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\RunCar.AssemblyInfo.cs
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\XamlC.stamp
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\RunCar.dll
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\ref\RunCar.dll
+C:\Users\mathe\source\repos\RunCar\RunCar\obj\Release\netstandard2.0\RunCar.pdb
