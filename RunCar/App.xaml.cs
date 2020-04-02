@@ -10,6 +10,7 @@ namespace RunCar
         {
             InitializeComponent();
 
+
             MainPage = new NavigationPage(new MainPage());
         }
 

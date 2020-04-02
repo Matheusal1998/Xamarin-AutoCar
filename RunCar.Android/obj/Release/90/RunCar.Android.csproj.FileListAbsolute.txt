@@ -383,3 +383,13 @@ C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\stamp\_ConvertR
 C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\stamp\_GenerateJavaStubs.stamp
 C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\stamp\_GeneratePackageManagerJava.stamp
 C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\stamp\_ResolveLibraryProjectImports.stamp
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\assets\Xamarin.Forms.HotReload.Reloader.dll
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\assets\Xamarin.Forms.HotReload.Reloader.pdb
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\FormsAnimationDrawable.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\GenericGlobalLayoutListener.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\IndicatorViewRenderer.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\ScrollLayoutManager.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\crc643f46942d9dd1fff9\SwipeViewRenderer.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnCancelListenerImplementor.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnClickListenerImplementor.java
+C:\Users\mathe\source\repos\RunCar\RunCar.Android\obj\Release\90\android\src\android\support\v7\app\AlertDialog_IDialogInterfaceOnMultiChoiceClickListenerImplementor.java
